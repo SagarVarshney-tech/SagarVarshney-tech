@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarvarshney-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sagarvarshney-tech" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sagarva93967263" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sagarva93967263?logo=twitter&style=for-the-badge" alt="https://twitter.com/sagarva93967263" /></a> </p>
 
 - 🔭 I’m currently working on **IMAGE CAPTION GENERATOR**
 
